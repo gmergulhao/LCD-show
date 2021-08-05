@@ -8,8 +8,6 @@
 ```sudo ./MPI4008-show```<br>
   
 
-# :
-
 
 ### WIKI:
 EN: http://www.lcdwiki.com/4inch_HDMI_Display-C
